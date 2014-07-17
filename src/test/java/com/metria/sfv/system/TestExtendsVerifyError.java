@@ -17,7 +17,7 @@ import org.powermock.modules.junit4.PowerMockRunner;
  */
 @RunWith(PowerMockRunner.class)
 @PrepareForTest(StaticClass.class)
-public class TestVerifyError extends ExtendedClass {
+public class TestExtendsVerifyError extends ExtendedClass {
 
 	@Test
 	public void test() throws Exception {
