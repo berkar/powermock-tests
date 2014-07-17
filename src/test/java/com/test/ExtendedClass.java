@@ -1,4 +1,4 @@
-package com.metria.sfv.system;
+package com.test;
 
 public class ExtendedClass {
 }
